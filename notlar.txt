@@ -1,0 +1,20 @@
+Furkan Kaya:20
+50
+90
+Furkan Kaya
+20
+3
+90
+Buse  Aydın
+30
+60
+78
+Furkan Kaya:/n20
+30
+60
+Furkan Kaya:10,10,10
+Furkan Kaya:20,40,50
+Buse Aydın:50,10,50
+Berat Aydın:60,70,80
+Furkan Kaya:90,80,50
+Buse Aydın:70,20,30
